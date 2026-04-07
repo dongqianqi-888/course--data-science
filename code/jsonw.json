@@ -1,0 +1,22 @@
+{
+     "name": [
+          "ali",
+          "sara",
+          "john"
+     ],
+     "age": [
+          23,
+          33,
+          14
+     ],
+     "city": [
+          "kl",
+          "kajang",
+          "bangi"
+     ],
+     "status": [
+          true,
+          false,
+          true
+     ]
+}

@@ -1,0 +1,14 @@
+SKIP_THIS_ROW
+SKIP_THIS_ROW	
+NOTES	This is a data file with employee information	
+ID	Name	Age	Department	Salary			
+001	John Smith	34	Engineering	75000			
+002	Sarah Johnson	28	Marketing	65000
+003	Michael Brown	42	Finance	82000			
+004	Emily Davis	31	Human Resources	68000
+005	Robert Wilson	39	Engineering	78000		
+006	Jennifer Lee	45	Finance	90000
+007	David Miller	37	Marketing	72000			
+008	Lisa Garcia	29	Human Resources	63000
+009	Thomas Anderson	41	Engineering	80000
+010	Michelle Taylor	33	Marketing	69000

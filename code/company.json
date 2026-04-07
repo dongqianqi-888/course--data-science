@@ -1,0 +1,144 @@
+{
+    "companies": [
+        {
+            "name": "Tech Innovators Inc.",
+            "location": "San Francisco, CA",
+            "founded": 2010,
+            "employees": [
+                {
+                    "name": "Alice Johnson",
+                    "age": 35,
+                    "position": "Software Engineer",
+                    "skills": [
+                        "Python",
+                        "JavaScript",
+                        "React"
+                    ],
+                    "contact": {
+                        "email": "alice.johnson@techinnovators.com",
+                        "phone": "123-456-7890"
+                    },
+                    "is_manager": false
+                },
+                {
+                    "name": "Bob Smith",
+                    "age": 40,
+                    "position": "Project Manager",
+                    "skills": [
+                        "Project Planning",
+                        "Agile",
+                        "Leadership"
+                    ],
+                    "contact": {
+                        "email": "bob.smith@techinnovators.com",
+                        "phone": "987-654-3210"
+                    },
+                    "is_manager": true
+                }
+            ],
+            "departments": {
+                "engineering": {
+                    "head": "Alice Johnson",
+                    "projects": [
+                        {
+                            "name": "AI Development",
+                            "budget": 500000,
+                            "deadline": "2024-12-31"
+                        },
+                        {
+                            "name": "Mobile App Revamp",
+                            "budget": 300000,
+                            "deadline": "2024-06-30"
+                        }
+                    ]
+                },
+                "sales": {
+                    "head": "Bob Smith",
+                    "regions": [
+                        "North America",
+                        "Europe",
+                        "Asia"
+                    ],
+                    "target": {
+                        "2023": 2000000,
+                        "2024": 2500000
+                    }
+                }
+            },
+            "values": [
+                "Innovation",
+                "Integrity",
+                "Customer Focus"
+            ]
+        },
+        {
+            "name": "Creative Solutions Ltd.",
+            "location": "London, UK",
+            "founded": 2015,
+            "employees": [
+                {
+                    "name": "Charlie Davis",
+                    "age": 29,
+                    "position": "UI/UX Designer",
+                    "skills": [
+                        "Design",
+                        "Figma",
+                        "Photoshop"
+                    ],
+                    "contact": {
+                        "email": "charlie.davis@creativesolutions.com",
+                        "phone": "321-654-9870"
+                    },
+                    "is_manager": false
+                },
+                {
+                    "name": "David Lee",
+                    "age": 45,
+                    "position": "Creative Director",
+                    "skills": [
+                        "Creativity",
+                        "Art Direction",
+                        "Team Leadership"
+                    ],
+                    "contact": {
+                        "email": "david.lee@creativesolutions.com",
+                        "phone": "654-987-3210"
+                    },
+                    "is_manager": true
+                }
+            ],
+            "departments": {
+                "design": {
+                    "head": "David Lee",
+                    "projects": [
+                        {
+                            "name": "Website Redesign",
+                            "budget": 100000,
+                            "deadline": "2024-09-30"
+                        },
+                        {
+                            "name": "Branding Initiative",
+                            "budget": 150000,
+                            "deadline": "2024-11-15"
+                        }
+                    ]
+                },
+                "marketing": {
+                    "head": "Charlie Davis",
+                    "regions": [
+                        "Global"
+                    ],
+                    "target": {
+                        "2023": 1500000,
+                        "2024": 1800000
+                    }
+                }
+            },
+            "values": [
+                "Creativity",
+                "Quality",
+                "Customer Satisfaction"
+            ]
+        }
+    ]
+}

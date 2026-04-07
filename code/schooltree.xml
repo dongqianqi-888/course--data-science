@@ -1,0 +1,10 @@
+<school>
+  <department name="geology">
+    <student id="a0001">ali<age>21</age></student>
+    <student id="a0002">abu<age>22</age></student>
+  </department>
+  <department name="mathmatics">
+    <student>alice<age>23</age></student>
+    <student>ahmad<age>24</age></student>
+  </department>
+</school>
